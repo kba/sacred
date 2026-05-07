@@ -31,7 +31,7 @@ except ImportError:
 
 
 setup(
-    name="sacred",
+    name="ocrd-fork-sacred",
     version=about["__version__"],
     author=about["__author__"],
     author_email=about["__author_email__"],
